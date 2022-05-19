@@ -1,2 +1,2 @@
-# macizcai.github.io
+# macizaci.github.io
 Teszoldal
